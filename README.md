@@ -79,7 +79,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - TBD main award pot
 - TBD gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/contests/YYYY-MM-sponsorName-contest/submit)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2021-12-vader-protocol-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts December 21, 2021 00:00 UTC
 - Ends December 23, 2021 23:59 UTC
