@@ -175,3 +175,11 @@ The codebase implements a TWAP feature which makes use of aggregation over sever
 As xVADER token is mintable, the GovernorAlpha contract makes use of the snapshotted total supply of xVADER at the time of proposal creation to determine a proposal’s outcome.
 
 VaderBond is a modification of Olympus DAO / Pro contracts.
+
+## Scope
+
+The audit should be focused on the LBTwap implementation under `contracts/lbt`, the USDV implementation under `contracts/token` and the functionality related in the AMM.
+
+- LBTwap 
+- USDV 
+- AMM core 
