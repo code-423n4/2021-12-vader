@@ -182,7 +182,7 @@ The audit should be focused on the LBTwap implementation under `contracts/lbt`, 
 
 - LBTwap 
 - USDV 
-- AMM core 
+- dex-v2/pool 
 
 ### Excluded
 The following contract/directories are excluded as they are already audited but included in the repository for reference.
@@ -192,3 +192,9 @@ The following contract/directories are excluded as they are already audited but 
 - dex-v2/wrapper
 - mocks
 - staking-rewards/Pausable.sol 
+- external
+- governance
+- interfaces
+- reserve
+- shared
+- x-vader
