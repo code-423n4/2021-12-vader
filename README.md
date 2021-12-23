@@ -6,7 +6,7 @@
 - Submit findings [using the C4 form](https://code4rena.com/contests/2021-12-vader-protocol-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts December 21, 2021 00:00 UTC
-- Ends December 23, 2021 23:59 UTC
+- Ends December 25, 2021 23:59 UTC
 
 # Introduction
 
